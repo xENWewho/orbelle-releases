@@ -28,9 +28,10 @@ Copyright © 2026. All rights reserved.
 
 ## What's new in 1.0.0
 
-- First release
-- Glass home screen with dock, Continue watching and trending
-- Control Center with weather, Wi-Fi speed test and now playing
-- Profiles with PIN lock
-- Search with voice
-- Update Orbelle right from Settings
+Orbelle's first public release.
+
+- **Home screen:** a glass-style home with a customizable dock (up to 5 apps plus All apps), Continue watching and trending titles.
+- **Control Center:** current weather and hourly forecast, Wi-Fi status with a built-in speed test, and what's playing now.
+- **Profiles:** separate profiles for each person, each with its own name, photo and optional PIN lock.
+- **Search:** find apps, movies and shows by typing or by voice.
+- **Updates:** install new versions of Orbelle directly from Settings › Update Orbelle.

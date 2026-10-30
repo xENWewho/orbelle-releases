@@ -1,6 +1,1 @@
-{
-  "version": "1.0.0",
-  "notes": "- First release\n- Glass home screen with dock, Continue watching and trending\n- Control Center with weather, Wi-Fi speed test and now playing\n- Profiles with PIN lock\n- Search with voice\n- Update Orbelle right from Settings",
-  "apk": "https://raw.githubusercontent.com/xENWewho/orbelle-releases/main/apk/Orbelle-Launcher.apk",
-  "size": 790768
-}
+{"version": "1.0.0", "notes": "Orbelle's first public release.\n- **Home screen:** a glass-style home with a customizable dock (up to 5 apps plus All apps), Continue watching and trending titles.\n- **Control Center:** current weather and hourly forecast, Wi-Fi status with a built-in speed test, and what's playing now.\n- **Profiles:** separate profiles for each person, each with its own name, photo and optional PIN lock.\n- **Search:** find apps, movies and shows by typing or by voice.\n- **Updates:** install new versions of Orbelle directly from Settings › Update Orbelle.", "apk": "https://raw.githubusercontent.com/xENWewho/orbelle-releases/main/apk/Orbelle-Launcher.apk", "size": 790768}
