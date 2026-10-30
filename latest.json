@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "notes": "- First release\n- Glass home screen with dock, Continue watching and trending\n- Control Center with weather, Wi-Fi speed test and now playing\n- Profiles with PIN lock\n- Search with voice\n- Update Orbelle right from Settings",
+  "apk": "https://raw.githubusercontent.com/xENWewho/orbelle-releases/main/apk/Orbelle-Launcher.apk",
+  "size": 790768
+}
