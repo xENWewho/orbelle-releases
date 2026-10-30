@@ -7,9 +7,11 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 ## Download
 
 Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.0.0). The link downloads the APK directly.
-On the TV, use the **Downloader** app: enter code **`1415509`** and the APK downloads. The code always gets the newest version.
-
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV.
+
+## Install with Downloader
+
+On the TV, open the **Downloader** app, enter code **`1415509`** and the APK downloads. The code always gets the newest version.
 
 ## Screenshots
 
