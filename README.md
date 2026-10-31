@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.2.1). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.2.2). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV.
 
 ## Install with Downloader
@@ -25,6 +25,13 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.2.2
+
+Cleaner closing and a quicker hold menu.
+
+- **Back from All apps, Search, Control Center and Who's watching:** the glass highlight no longer flashes on a tile in the middle of the screen before landing on the dock.
+- **Hold OK on an app:** the menu opens faster. The background blurs once instead of animating the blur.
 
 ## What's new in 1.2.1
 
