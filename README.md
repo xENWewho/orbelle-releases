@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.1.5). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.2.0). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV.
 
 ## Install with Downloader
@@ -25,6 +25,14 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.2.0
+
+A smoother way to move around.
+
+- **Highlight:** one glass highlight now glides from tile to tile, with a soft little bounce, on the dock, posters, All apps and Search. The tile you're on still grows.
+- **Performance:** the highlight is drawn once and slid into place, so moving around is lighter on TV boxes.
+- **Credits:** Settings › System › About Orbelle lists open-source licenses. The glass highlight is based on CleanYourTV by Gathin (MIT License).
 
 ## What's new in 1.1.5
 
