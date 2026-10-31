@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.0.3). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.1.0). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV.
 
 ## Install with Downloader
@@ -25,6 +25,13 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.1.0
+
+A fresher home screen every day.
+
+- **Trending:** the row now mixes popular titles with new releases from this year, so you see recent movies and series, not only the biggest hits.
+- **Daily refresh:** the order of the row changes every day.
 
 ## What's new in 1.0.3
 
