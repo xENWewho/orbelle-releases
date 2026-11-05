@@ -6,8 +6,8 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.2.3). The link downloads the APK directly.
-Already have Orbelle? Use **Settings › Update Orbelle** on your TV.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.3.0). The link downloads the APK directly.
+Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
 
@@ -20,11 +20,22 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 | <img src="docs/screenshots/01-check-this-tv.png" width="420"><br>**1.** Check this TV: the first screen after installing | <img src="docs/screenshots/02-whos-watching.png" width="420"><br>**2.** Who's watching? Pick a profile (each can have a PIN) |
 | <img src="docs/screenshots/03-home.png" width="420"><br>**3.** Home: banner, Continue watching and trending | <img src="docs/screenshots/04-dock-move.png" width="420"><br>**4.** Rearranging the dock |
 | <img src="docs/screenshots/05-app-drawer.png" width="420"><br>**5.** All apps: sort by My order, A–Z, Recent or Most used, and see hidden apps | <img src="docs/screenshots/06-search.png" width="420"><br>**6.** Search: movies, series and apps |
-| <img src="docs/screenshots/07-control-center.png" width="420"><br>**7.** Control Center: weather, Wi-Fi speed test, now playing | <img src="docs/screenshots/08-settings.png" width="420"><br>**8.** Settings |
+| <img src="docs/screenshots/07-control-center.png" width="420"><br>**7.** Control Center: weather, Wi-Fi speed test, now playing, file manager | <img src="docs/screenshots/08-settings.png" width="420"><br>**8.** Settings |
 
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.3.0
+
+Sharper app tiles, your own tile pictures, and a smaller download.
+
+- **App tiles:** apps without a TV banner now show their icon big and sharp, with the icon's colors filling the whole tile.
+- **Tile picture:** choose your own picture for any app in Settings › Apps › the app › Tile picture. Use the app's own to go back.
+- **Control Center:** File manager replaces Clean RAM, which barely did anything on current Android.
+- **Orbelle's logo:** it now shows correctly in the TV's own app lists instead of Android's default icon.
+- **Hold OK on an app:** the highlight around the pressed tile now uses the same glass look as the rest of Orbelle.
+- **Smaller download:** the APK is about half the size (about 400 KB).
 
 ## What's new in 1.2.3
 
