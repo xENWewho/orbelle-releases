@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.3.0). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.4.0). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -25,6 +25,18 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.4.0
+
+TV Guide for your IPTV channels, right in the dock.
+
+- **TV Guide:** sign in with your provider's server, username and password (Xtream), or with M3U and guide (EPG) links, to see your channels and what's on in a grid.
+- **Dock:** TV Guide sits in the dock like an app. Move it, remove it or give it a tile picture like any other app.
+- **Watching:** press OK to open a channel in VLC, MX Player or your IPTV app. Shows that start later get a reminder instead.
+- **Channel preview:** the highlighted channel plays in a small window in the guide's banner, muted, with sound or off.
+- **Groups and Favorites:** your provider's groups show across the top. Hold OK to move or hide a group, or to add a channel to Favorites.
+- **On now:** your favorite channels and what's on them show first in the home screen's poster row.
+- **Backups:** TV Guide settings are saved in backups. The login can be included too, locked with a password.
 
 ## What's new in 1.3.0
 
