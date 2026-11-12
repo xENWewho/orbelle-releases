@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.5.4). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.6.0). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -25,6 +25,16 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.6.0
+
+Guide info for many more channels.
+
+- **Matching copies:** channels like "Discovery Science (1080p)", "HD" or "US |" versions now use the schedule of the matching channel.
+- **Full provider guide:** for Xtream logins, Orbelle also reads your provider's full guide file in the background, which covers more channels than the short guide.
+- **Extra guides:** Settings › TV Guide › Extra guides adds free public guides (USA, USA sports, Mexico, Spain and more) to fill channels your provider has no schedule for. The ones that match your channel groups are turned on for you, and you can add your own guide link.
+- **Coverage:** Settings › TV Guide › Refresh guide shows how many channels have guide info.
+- **Guide:** long channel names end in "…" instead of running into the schedule.
 
 ## What's new in 1.5.4
 
