@@ -33,10 +33,11 @@ A redesigned Orbelle, with full-screen pictures, a new TV Guide and nature wallp
 
 - **Home:** the highlighted movie or show fills the whole screen behind a bigger title, with TV Guide pinned in the row and your apps below.
 - **Apps:** a cleaner grid of six apps across, with the name shown only under the app you're on.
-- **Control Center:** a full-height panel with wide Wi-Fi, Bluetooth, LocalSend and File manager buttons and a bigger Now playing card.
-- **Settings:** categories on the left and their options on the right, so you always see where you are.
+- **Search:** recent searches, trending and channels on now before you type, and results for movies, series, apps, TV channels (by name or number) and shows in your guide.
+- **Control Center:** a full-height panel with a Back to TV card for your last channel, Free up memory, a 5-day forecast (OK on the weather), and Restart and Turn off under Hold OK on Sleep.
+- **Settings:** categories on the left and their options on the right, with tidier pages for Weather, Recommendations and Permissions, What's new, and an automatic update check.
 - **TV Guide:** the highlighted channel plays across the top of the screen, with the show's details over it and a cleaner grid below.
-- **Watching TV:** a new starting screen, a new info bar with start and end times, and a new channel list.
+- **Watching TV:** a new starting screen, a new info bar with start and end times, a new channel list, and double-press ◀ to jump back to the previous channel.
 - **Mountains wallpaper:** the new default, with day, sunset and night looks that change by themselves with the sun. The classic wallpapers are still there.
 - **Lite mode:** lighter pictures and less blur for TV boxes with little memory, on by default on 2 GB boxes (Settings › Appearance).
 - **Smoother streams:** guide updates wait while you're watching a channel, so the stream keeps the full connection.
