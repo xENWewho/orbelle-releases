@@ -17,11 +17,11 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 
 | | |
 |---|---|
-| <img src="docs/screenshots/01-check-this-tv-v2.png" width="420"><br>**1.** Check this TV: the first screen after installing | <img src="docs/screenshots/02-whos-watching-v2.png" width="420"><br>**2.** Who's watching? Pick a profile (each can have a PIN) |
-| <img src="docs/screenshots/03-home-v4.png" width="420"><br>**3.** Home: the highlighted title fills the screen, with TV Guide pinned in the row and your apps below | <img src="docs/screenshots/04-tv-guide-v4.png" width="420"><br>**4.** TV Guide: the channel plays across the top, with groups and the schedule below |
+| <img src="docs/screenshots/01-check-this-tv-v5.png" width="420"><br>**1.** Check this TV: the first screen after installing | <img src="docs/screenshots/02-whos-watching-v5.png" width="420"><br>**2.** Who's watching? Pick a profile (each can have a PIN) |
+| <img src="docs/screenshots/03-home-v5.png" width="420"><br>**3.** Home: TV Guide pinned in the row over the Mountains wallpaper (a highlighted movie or show fills the screen with its picture) | <img src="docs/screenshots/04-tv-guide-v4.png" width="420"><br>**4.** TV Guide: the channel plays across the top, with groups and the schedule below |
 | <img src="docs/screenshots/05-watching-v4.png" width="420"><br>**5.** Watching a channel in Orbelle Player | <img src="docs/screenshots/06-app-drawer-v4.png" width="420"><br>**6.** Apps: sort by A–Z, My order, Recent or Most used, and see hidden apps |
-| <img src="docs/screenshots/07-search-v3.png" width="420"><br>**7.** Search: movies, series and apps | <img src="docs/screenshots/08-control-center-v2.png" width="420"><br>**8.** Control Center: weather, Wi-Fi speed test, now playing, file manager |
-| <img src="docs/screenshots/09-settings-v4.png" width="420"><br>**9.** Settings: categories on the left, options on the right | <img src="docs/screenshots/10-wallpapers-v3.png" width="420"><br>**10.** Wallpapers: Mountains (day, sunset and night) and the classic ones |
+| <img src="docs/screenshots/07-search-v5.png" width="420"><br>**7.** Search: movies, series and apps | <img src="docs/screenshots/08-control-center-v5.png" width="420"><br>**8.** Control Center: weather, Wi-Fi speed test, now playing, file manager |
+| <img src="docs/screenshots/09-settings-v5.png" width="420"><br>**9.** Settings: categories on the left, options on the right | <img src="docs/screenshots/10-wallpapers-v5.png" width="420"><br>**10.** Wallpapers: Mountains (day, sunset and night) and the classic ones |
 
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
