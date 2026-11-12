@@ -20,7 +20,7 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 | <img src="docs/screenshots/01-check-this-tv-v5.png" width="420"><br>**1.** Check this TV: the first screen after installing | <img src="docs/screenshots/02-whos-watching-v5.png" width="420"><br>**2.** Who's watching? Pick a profile (each can have a PIN) |
 | <img src="docs/screenshots/03-home-v5.png" width="420"><br>**3.** Home: TV Guide pinned in the row over the Mountains wallpaper (a highlighted movie or show fills the screen with its picture) | <img src="docs/screenshots/04-tv-guide-v4.png" width="420"><br>**4.** TV Guide: the channel plays across the top, with groups and the schedule below |
 | <img src="docs/screenshots/05-watching-v4.png" width="420"><br>**5.** Watching a channel in Orbelle Player | <img src="docs/screenshots/06-app-drawer-v4.png" width="420"><br>**6.** Apps: sort by A–Z, My order, Recent or Most used, and see hidden apps |
-| <img src="docs/screenshots/07-search-v6.png" width="420"><br>**7.** Search: the highlighted result fills the screen, with movies, series, apps, and TV channels and shows from your guide | <img src="docs/screenshots/08-control-center-v6.png" width="420"><br>**8.** Control Center: weather (OK for 5 days), Wi-Fi, Free up memory, now playing and Back to TV |
+| <img src="docs/screenshots/07-search-v6.png" width="420"><br>**7.** Search: the highlighted result fills the screen, with movies, series, apps, and TV channels and shows from your guide | <img src="docs/screenshots/08-control-center-v7.png" width="420"><br>**8.** Control Center: weather (OK for 5 days), Wi-Fi, Bluetooth, LocalSend, now playing and Back to TV |
 | <img src="docs/screenshots/09-settings-v6.png" width="420"><br>**9.** Settings: categories on the left, options on the right | <img src="docs/screenshots/10-wallpapers-v5.png" width="420"><br>**10.** Wallpapers: Mountains (day, sunset and night) and the classic ones |
 
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
@@ -34,7 +34,7 @@ A redesigned Orbelle, with full-screen pictures, a new TV Guide and nature wallp
 - **Home:** the highlighted movie or show fills the whole screen behind a bigger title, with TV Guide pinned in the row and your apps below.
 - **Apps:** a cleaner grid of six apps across, with the name shown only under the app you're on.
 - **Search:** recent searches, trending and channels on now before you type, and results for movies, series, apps, TV channels (by name or number) and shows in your guide.
-- **Control Center:** a full-height panel with a Back to TV card for your last channel, Free up memory, a 5-day forecast (OK on the weather), and Restart and Turn off under Hold OK on Sleep.
+- **Control Center:** a full-height panel with a Back to TV card for your last channel, LocalSend and File manager buttons, a 5-day forecast (OK on the weather), and Restart and Turn off under Hold OK on Sleep.
 - **Settings:** categories on the left and their options on the right, with tidier pages for Weather, Recommendations and Permissions, What's new, and an automatic update check.
 - **TV Guide:** the highlighted channel plays across the top of the screen, with the show's details over it and a cleaner grid below.
 - **Watching TV:** a new starting screen, a new info bar with start and end times, a new channel list, and double-press ◀ to jump back to the previous channel.
