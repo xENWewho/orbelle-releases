@@ -21,7 +21,7 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 | <img src="docs/screenshots/03-home-v2.png" width="420"><br>**3.** Home: the highlighted title fills the screen, with TV Guide pinned in the row and your apps below | <img src="docs/screenshots/04-tv-guide-v2.png" width="420"><br>**4.** TV Guide: the channel plays across the top, with groups and the schedule below |
 | <img src="docs/screenshots/05-watching-v2.png" width="420"><br>**5.** Watching a channel in Orbelle Player | <img src="docs/screenshots/06-app-drawer-v2.png" width="420"><br>**6.** Apps: sort by A–Z, My order, Recent or Most used, and see hidden apps |
 | <img src="docs/screenshots/07-search-v3.png" width="420"><br>**7.** Search: movies, series and apps | <img src="docs/screenshots/08-control-center-v2.png" width="420"><br>**8.** Control Center: weather, Wi-Fi speed test, now playing, file manager |
-| <img src="docs/screenshots/09-settings-v2.png" width="420"><br>**9.** Settings: categories on the left, options on the right | <img src="docs/screenshots/10-wallpapers-v2.png" width="420"><br>**10.** Nature wallpapers with day, sunset and night looks |
+| <img src="docs/screenshots/09-settings-v3.png" width="420"><br>**9.** Settings: categories on the left, options on the right | <img src="docs/screenshots/10-wallpapers-v2.png" width="420"><br>**10.** Nature wallpapers with day, sunset and night looks |
 
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
