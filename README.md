@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.8.0). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.0). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -25,6 +25,20 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 2.0.0
+
+A redesigned Orbelle, with full-screen pictures, a new TV Guide and nature wallpapers that follow the sun.
+
+- **Home:** the highlighted movie or show fills the whole screen behind a bigger title, with TV Guide pinned in the row and your apps below.
+- **Apps:** a cleaner grid of six apps across, with the name shown only under the app you're on.
+- **Control Center:** a full-height panel with wide Wi-Fi, Bluetooth, LocalSend and File manager buttons and a bigger Now playing card.
+- **Settings:** categories on the left and their options on the right, so you always see where you are.
+- **TV Guide:** the highlighted channel plays across the top of the screen, with the show's details over it and a cleaner grid below.
+- **Watching TV:** a new starting screen, a new info bar with start and end times, and a new channel list.
+- **Nature wallpapers:** Tropical Beach, Mountains, Rainforest and Lighthouse Coast, each with day, sunset and night looks that change with the sun.
+- **Lite mode:** lighter pictures and less blur for TV boxes with little memory, on by default on 2 GB boxes (Settings › Appearance).
+- **Smoother streams:** guide updates wait while you're watching a channel, so the stream keeps the full connection.
 
 ## What's new in 1.8.0
 
