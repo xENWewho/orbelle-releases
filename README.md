@@ -40,6 +40,7 @@ A redesigned Orbelle, with full-screen pictures, a new TV Guide and nature wallp
 - **Mountains wallpaper:** the new default, with day, sunset and night looks that change by themselves with the sun. The classic wallpapers are still there.
 - **Lite mode:** lighter pictures and less blur for TV boxes with little memory, on by default on 2 GB boxes (Settings › Appearance).
 - **Smoother streams:** guide updates wait while you're watching a channel, so the stream keeps the full connection.
+- **Lighter and quicker:** fewer, more useful extra guides, 15 posters in the trending row, the guide's live preview starts once you stop on a channel, and shorter animations on 2 GB boxes.
 
 ## What's new in 1.8.0
 
