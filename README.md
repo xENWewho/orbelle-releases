@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.7.1). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.7.2). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -25,6 +25,14 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.7.2
+
+TV Guide now stays in place on the home screen while the rest of the row scrolls.
+
+- **TV Guide card:** stays fixed at the left with a divider, and On now, Continue watching and Trending scroll beside it.
+- **Back:** from anywhere in the row, Back slides the row to the start and puts you on TV Guide.
+- **TV Guide artwork:** the card now uses the same artwork as the TV Guide banner, so they match.
 
 ## What's new in 1.7.1
 
