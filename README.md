@@ -2,7 +2,7 @@
 
 # Orbelle
 
-A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
+Your TV, simplified. A fast, modern home screen for Android TV and Google TV.
 
 ## Download
 
