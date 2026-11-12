@@ -34,6 +34,7 @@ A redesigned Orbelle, with full-screen pictures, a new TV Guide and nature wallp
 - **Home:** the highlighted movie or show fills the whole screen behind a bigger title, with TV Guide pinned in the row and your apps below.
 - **Apps:** a cleaner grid of six apps across, with the name shown only under the app you're on.
 - **Search:** recent searches, trending and channels on now before you type, and results for movies, series, apps, TV channels (by name or number) and shows in your guide.
+- **New logo:** a cleaner Orbelle ring with a small planet on its orbit, on the app icon, the TV banner and the No internet screen.
 - **Control Center:** a full-height panel with a Back to TV card for your last channel, LocalSend and File manager buttons, a 5-day forecast (OK on the weather), and Restart and Turn off under Hold OK on Sleep.
 - **Settings:** categories on the left and their options on the right, with tidier pages for Weather, Recommendations and Permissions, What's new, and an automatic update check.
 - **TV Guide:** the highlighted channel plays across the top of the screen, with the show's details over it and a cleaner grid below.
