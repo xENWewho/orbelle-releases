@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.7.0). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.7.1). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -25,6 +25,13 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.7.1
+
+A smaller TV Guide card and better matching for Spanish names.
+
+- **TV Guide card:** now a compact square on the home screen, so Continue watching and Trending show up sooner.
+- **Guide matching:** accents and ñ no longer matter when matching channels to guides, so "ANDALUCIA TV" now finds "Andalucía TV" and "CINE CLASICO" finds "Cine Clásico". This fills many more Spanish and Latino channels.
 
 ## What's new in 1.7.0
 
