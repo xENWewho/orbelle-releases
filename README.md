@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.6.1). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.6.2). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -25,6 +25,16 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.6.2
+
+A guide that doesn't go blank, and Puerto Rico channels.
+
+- **TV Guide:** the last saved guide now stays on screen while a new one loads, so channels no longer lose their information during a refresh.
+- **Loading:** each guide loads one at a time and shows as soon as it's ready. A guide that fails or takes too long is skipped instead of holding up the rest.
+- **Puerto Rico (community):** a new extra guide with Telemundo Puerto Rico, Tele Once, WAPA, WIPR and MegaTV. It turns on automatically when you have a Puerto Rico group.
+- **USA local stations:** turned back off if 1.6.1 turned it on, because the file is very large. You can still turn it on in Extra guides.
+- **Refresh guide:** now shows which guide is loading and which ones couldn't be loaded.
 
 ## What's new in 1.6.1
 
