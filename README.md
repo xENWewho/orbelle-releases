@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.7.4). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.8.0). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -25,6 +25,15 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.8.0
+
+See which extra guides help your channels, and skip the ones that don't.
+
+- **Extra guides:** each guide now shows how many of your channels it fills, and selecting it names a few of them.
+- **Skipped guides:** a guide that fills none of your channels is no longer downloaded, so guide updates are faster; it's checked again once a week, or right away if you switch IPTV service.
+- **Your own guide link:** shows how many channels it fills too.
+- **Under the hood:** leftover code and old guide files from earlier versions were cleaned up.
 
 ## What's new in 1.7.4
 
