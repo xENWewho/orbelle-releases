@@ -6,7 +6,7 @@ A glassy, Apple TV–style launcher for Android TV and Google TV boxes.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.6.3). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 1.6.4). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -25,6 +25,15 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 1.6.4
+
+More guides for Latin American and Spanish channels.
+
+- **Mexico & Latin America:** a new extra guide with about 600 Spanish-language channels (Discovery, ESPN, HBO, TNT, Cinecanal, Azteca, Las Estrellas and more). It turns on for groups named Latino, Latam, Latin or México.
+- **Spain (dobleM):** a new extra guide with over 600 channels from Spain, including Movistar+. It turns on for Spain or España groups.
+- **Brazil:** removed from Extra guides.
+- **Cleaner matching:** when a guide lists the same channel for several countries, Orbelle uses one of them instead of mixing their schedules.
 
 ## What's new in 1.6.3
 
