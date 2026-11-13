@@ -6,7 +6,7 @@ Your TV, simplified. A fast, modern home screen for Android TV and Google TV.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.0). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.1). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -26,6 +26,18 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 2.0.1
+
+A cleaner look that matches the new logo, an easier-to-read TV Guide, and faster channels.
+
+- **TV Guide:** episodes of the same show in a row now appear as one box with the show's full name, and very small boxes no longer show cut-off text.
+- **Faster channels:** a channel whose preview is already playing in the TV Guide opens full screen right away, without starting over.
+- **Darker glass:** buttons, pills and cards are a bit darker, so they stay easy to read over bright posters and wallpapers.
+- **Home:** a light shade at the top keeps the clock and buttons readable, and with the Featured banner off the row now sits just above the dock.
+- **Orbelle colors:** the TV Guide card, the Settings icons and the first profile color now use the colors of the new logo.
+- **Lite mode:** now off by default; when it's on, Control Center and pop-ups use a deep, almost solid background so nothing shows through.
+- **Settings:** moving up and down is smooth, and opening a page or going back no longer makes the highlight jump.
 
 ## What's new in 2.0.0
 
