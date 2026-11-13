@@ -6,7 +6,7 @@ Your TV, simplified. A fast, modern home screen for Android TV and Google TV.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.1). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.2). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -26,6 +26,16 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 2.0.2
+
+Clearer highlights in Control Center and the TV Guide, and easier moving around Settings.
+
+- **Control Center:** only the button you're on turns white; Wi-Fi and Bluetooth show they're on with the blue circle, and the Now playing card shows only while something is playing.
+- **TV Guide groups:** only the highlighted group is white; the open group has a small line under its name, and the schedule switches as soon as you stop on a group.
+- **Settings:** Left always goes back, and Right or OK changes a value; rows that move something left or right, like Dock position, still use both.
+- **Settings text:** descriptions have room for three lines, so they're no longer cut off.
+- **Easier to read:** the highlighted item's text is a little bolder, and highlighted rows grow to the right so they stay in line.
 
 ## What's new in 2.0.1
 
