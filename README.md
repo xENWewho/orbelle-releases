@@ -6,7 +6,7 @@ Your TV, simplified. A fast, modern home screen for Android TV and Google TV.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.6). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.7). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -26,6 +26,15 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 2.0.7
+
+A full-screen More info page, a TV Guide that's harder to close by accident, and a cleaner, flat look everywhere.
+
+- **More info:** movies and series open a full-screen page with the picture, rating, year, length, genres, description, cast and director (seasons and episodes for series), Open and Watch trailer, and More like this.
+- **TV Guide Back button:** Back goes to now, then to the group pills, then to All, and then shows "Press Back again to close TV Guide"; if you're watching a channel, it returns you to it.
+- **TV Guide look:** the wallpaper shows faintly behind the whole guide, also while a channel is playing.
+- **Flat design:** buttons, cards, rows and pills no longer have glass edges or shine, so they read crisply on the TV; the highlighted item still turns white.
 
 ## What's new in 2.0.6
 
