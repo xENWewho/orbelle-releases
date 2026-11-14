@@ -6,7 +6,7 @@ Your TV, simplified. A fast, modern home screen for Android TV and Google TV.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.8). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.9). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -26,6 +26,13 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 2.0.9
+
+A cleaner TV Guide while a channel's preview loads.
+
+- **TV Guide:** The big channel logo at the top is gone (the logo stays in the channel row), so the guide looks cleaner as you move between channels.
+- **TV Guide look:** While a preview loads, the top of the guide is one plain dark color, which removes the dark square that could show there in 2.0.8; the shading only appears once the live picture starts.
 
 ## What's new in 2.0.8
 
