@@ -6,7 +6,7 @@ Your TV, simplified. A fast, modern home screen for Android TV and Google TV.
 
 ## Download
 
-Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.10). The link downloads the APK directly.
+Download **[Orbelle-Launcher.apk](https://github.com/xENWewho/orbelle-releases/raw/main/apk/Orbelle-Launcher.apk)** (version 2.0.11). The link downloads the APK directly.
 Already have Orbelle? Use **Settings › Update Orbelle** on your TV. Still on 1.0.0? It can't update itself: install the newest version once with Downloader (code **`1415509`**).
 
 ## Install with Downloader
@@ -26,6 +26,14 @@ On the TV, open the **Downloader** app, enter code **`1415509`** and the APK dow
 This repository only holds Orbelle's releases: the APK, `latest.json` (what Update Orbelle reads) and release notes. The source code is private.
 
 Copyright © 2026. All rights reserved.
+
+## What's new in 2.0.11
+
+See your IPTV plan in Settings, and short channel groups now start at the top of the channel list.
+
+- **IPTV account:** Settings › TV Guide now shows your plan's status, expiration date with days left, and how many screens are in use (Xtream logins).
+- **Expiration reminder:** With 7 days or less left the date turns orange, and TV Guide in the Settings menu says how many days remain; an expired plan shows in red.
+- **Channel list:** A group with only a few channels now starts right under the group name, and the box fits them, instead of sitting at the bottom.
 
 ## What's new in 2.0.10
 
